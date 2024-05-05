@@ -1,5 +1,6 @@
 # Getting started
-A simple implementation of Gradient Descent for a simple function.
+
+A simple implementation of Gradient Descent for a simple mathematical function, no Linear Regression, and no Machine Learning.
 ```
 y = x^2 - 2x + 1
 ```
